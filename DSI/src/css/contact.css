@@ -1,0 +1,39 @@
+.contact{
+    padding: 134px 0 24px;
+    background-color: #FFFFFF;
+}
+
+.contact__block{
+    display: flex;
+    justify-content: start;
+    column-gap: 47px;
+    align-items: center;
+}
+
+.contact__block-title{
+    padding: 10px 0 8px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #263238;
+}
+
+.contact__block-text{
+    font-size: 18px;
+    line-height: 149.19%;
+    color: #263238;
+}
+
+.contact__block-left-title{
+    font-size: 24px;
+    line-height: 28px;
+    color: #263238;
+    font-weight: bold;
+    padding: 30px 0 15px;
+}
+
+.contact__block-left-text{
+    font-size: 18px;
+    line-height: 149.19%;
+    color: #263238;
+}

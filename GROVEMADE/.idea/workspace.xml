@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="436f97e3-2250-4b83-a59d-3ac308ed2034" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FiCUSLP8P4dONCGbNvL6RqykfZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merge\Desktop\-\GROVEMADE\src\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="436f97e3-2250-4b83-a59d-3ac308ed2034" name="Default Changelist" comment="" />
+      <created>1664965532995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664965532995</updated>
+      <workItem from="1664965534213" duration="5371000" />
+      <workItem from="1664978906850" duration="206000" />
+      <workItem from="1664979191969" duration="5641000" />
+      <workItem from="1665050733114" duration="235000" />
+      <workItem from="1665057708093" duration="100000" />
+      <workItem from="1665062198742" duration="36000" />
+      <workItem from="1665136143231" duration="806000" />
+      <workItem from="1665506160014" duration="357000" />
+      <workItem from="1665569353580" duration="19000" />
+      <workItem from="1665757169869" duration="25000" />
+      <workItem from="1665757439127" duration="17000" />
+      <workItem from="1665818463215" duration="1738000" />
+      <workItem from="1665820233792" duration="1825000" />
+      <workItem from="1665822086068" duration="1790000" />
+      <workItem from="1665823904399" duration="219000" />
+      <workItem from="1665837811791" duration="96000" />
+      <workItem from="1665864220823" duration="3000" />
+      <workItem from="1665997333655" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1664969848128">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1664969848128" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1665026599607">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1665026599607" />
+  </component>
+</project>

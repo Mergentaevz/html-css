@@ -1,0 +1,445 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#000;
+}
+.header{
+    position: relative;
+    width: 100%;
+    background: url('images/Image.png')no-repeat center/cover;
+}
+.header::before{
+    position: absolute;
+    content:"";
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    background: #000;
+    opacity: .5;
+}
+
+.navbar{
+    padding-top: 20px;
+    padding-left:70px ;
+    padding-right:70px ;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    gap: 870px;
+}
+.logo{
+    z-index: 3;
+    width: 111px;
+    height: 45px;
+}
+.burger{
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 7px;
+    width: 130px;
+    height: 45px;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 18px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0);
+}
+.section-txt{
+    margin-top: 115px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    font-family: 'Alegreya', serif;
+}
+.custom{
+    z-index: 3;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    margin-bottom: 20px;
+}
+.boom{
+    z-index: 3;
+    font-family: 'Cabin',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+.discuss{
+    z-index: 3;
+    margin-top: 50px;
+    margin-bottom: 300px;
+
+    background-color: #aade0048;
+    background-image: url(./icons/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size:214px 44px;
+    background-position: 7px;
+
+    width: 232px;
+    height: 54px;
+   
+    border: 2px solid #AADE00;
+    color: #AADE00;
+    font-family: 'Cabin',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+}
+.scroll{
+    z-index: 3;
+    text-transform: uppercase;
+    font-family: 'Cabin',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+}
+span{
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+/* ============================== */
+.head{
+    padding-top: 190px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.build{
+    color: white;
+}
+.build h2{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 58px;
+}
+.build p{
+    font-family: 'Cabin', sans-serif;
+    font-size: 26px;
+    line-height: 30px;
+}
+.navigation{
+    z-index: 4;
+    display: flex;
+    list-style: none;
+}
+.nav_icon-1{
+    border: 2px solid #AADE00;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #97BF03;
+}
+.nav_icon-2{
+    border: 2px solid #AADE00;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #AADE00;
+}
+.img-games{
+    padding-top: 70px;
+}
+/* ==================================== */
+.section-3{
+    position: relative;
+    width: 1441px;
+    height: 1048px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-3_img{
+
+    width: 1440px;
+    height: 665px;
+}
+.section-3_txt{
+    text-align: center;
+    position: absolute;
+}
+.about{
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 58px;
+    font-family: 'Alegreya',sans-serif;
+    text-transform: uppercase;
+    margin-top: 300px;
+    color: #fff;
+}
+.about b{
+    font-family: 'Playfair Display',sans-serif;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 58px;
+}
+.about_p{
+    font-family: 'Cabin',sans-serif;
+    color: #fff;
+}
+/* =================================== */
+.last_news{
+    margin-left: 150px;
+    color: white;
+}
+.last_news h2{
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 58px;
+}
+.last_news p{
+    font-size: 26px;
+    line-height: 36px;
+}
+.view{
+    background-color: #aade0048;
+    background-image: url(./icons/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size:152px 44px;
+    background-position: 4px;
+
+    width: 164px;
+    height: 54px;
+   
+    border: 2px solid #AADE00;
+    color: #AADE00;
+    font-family: 'Cabin',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+}
+.section-4_cards{
+    display: flex;
+    gap: 30px;
+    margin:-20px 545px ;
+    list-style: none;
+}
+.card-1{
+   color: #fff;
+}
+.card-2{
+    margin-top: 320px;
+    color: #fff;
+    margin-bottom: 72px;
+}
+.card-info{
+    background-color: #252628;
+    display: flex;
+    flex-direction: column;
+}
+.card-txt{
+    margin: 20px;
+}
+.card-txt h2{
+    color: #fff;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 30px;
+}
+.card-txt p{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.data{
+    margin-top: 20px;
+    gap: 5px;
+    color: #AADE00;
+    display: flex;
+    align-items: center;
+}
+.read-more{
+    text-transform: uppercase;
+    margin-top: 40px;
+    
+    width: 130px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid #AADE00;
+    color: #AADE00;
+}
+/* ============================ */
+.section-5{
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    background-image: url(./images/Rectangle\ 31.png);
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+}
+.getInTouch{
+    font-family: 'Alegreya',sans-serif;
+    color: white;
+}
+.getInTouch h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+}
+.in{
+    width: 90px;
+    height: 22px;
+    background-color: #006097;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    height: 90%;
+}
+.in li{
+    padding: 5px;
+}
+.registration form{
+    display: flex;
+    flex-direction: column;
+}
+#rgstr_txt{
+    width: 560px;
+    height: 5px;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color:rgba(0, 0, 0, 0) ;
+}
+label{
+    color: white;
+}
+#text{
+    color: white;
+    margin-top: 60px;
+}
+.file-type{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 155px;
+    color: white;
+}
+.upload{
+    text-transform: uppercase;
+    
+    width: 130px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid #AADE00;
+    color: #AADE00;
+}
+.message{
+    margin-top: 40px;
+    gap: 15px;
+}
+#message{
+    height: 5px;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color:rgba(0, 0, 0, 0) ;  
+}
+.recaptcha{
+    margin-top: 55px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+.send{
+    background-color: #aade0048;
+    background-image: url(./icons/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size:194px 44px;
+    background-position: 6px;
+
+    width: 210px;
+    height: 54px;
+   
+    border: 2px solid #AADE00;
+    color: #AADE00;
+    font-family: 'Cabin',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+}
+/* =============================== */
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+}
+.footer_nav{
+    margin-top: 50px;
+    gap: 155px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.footer_link{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    list-style: none;
+}
+.contact_txt{
+    display: flex;
+    gap: 10px;
+}
+.address{
+    display: flex;
+    gap: 10px;
+}
+.social_icon{
+    list-style: none;
+    gap: 20px   ;
+    display: flex;
+}
+.social_icon li{
+    margin-top: 10px;
+    margin-left: -5px;
+    gap: 20px;
+}
+.dateOFGameBoom{
+    margin-top: 130px;
+    margin-bottom: 114px;
+    color: white;
+
+}
+.swiper-slide {
+    width: 80%;
+    height: 200px;
+    background-color: #AADE00;
+}
+
+.swiper-slide:nth-child(2n) {
+    width: 60%;
+}
+
+.swiper-slide:nth-child(3n) {
+    width: 40%;
+}

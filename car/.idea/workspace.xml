@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f30e8f26-4bc8-4380-a8c9-5a3a237008f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FoAulXDUpT56kTIvt5sC7FgJiv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/work" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\car\src\images\work" />
+      <recent name="C:\Users\User\Desktop\car\src\images\example" />
+      <recent name="C:\Users\User\Desktop\car\src\images\gallery" />
+      <recent name="C:\Users\User\Desktop\car\src\images\price" />
+      <recent name="C:\Users\User\Desktop\car\src\images\free" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\car\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30e8f26-4bc8-4380-a8c9-5a3a237008f8" name="Default Changelist" comment="" />
+      <created>1665148287652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665148287652</updated>
+      <workItem from="1665148289869" duration="6005000" />
+      <workItem from="1665160365772" duration="3582000" />
+      <workItem from="1665392809915" duration="9041000" />
+      <workItem from="1665407431956" duration="6578000" />
+      <workItem from="1665497476050" duration="3614000" />
+      <workItem from="1665664839550" duration="6190000" />
+      <workItem from="1665671180350" duration="653000" />
+      <workItem from="1665687826019" duration="6183000" />
+      <workItem from="1665752162814" duration="4670000" />
+      <workItem from="1665844743048" duration="14650000" />
+      <workItem from="1666620911707" duration="44000" />
+      <workItem from="1666772712303" duration="465000" />
+      <workItem from="1667034598989" duration="495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1665412317310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1665412317310" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1665693151385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1665693151385" />
+  </component>
+</project>

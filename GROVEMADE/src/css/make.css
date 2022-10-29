@@ -1,0 +1,55 @@
+.make{
+    padding-top: 38px;
+    text-align: center;
+}
+
+.make__title{
+    font-size: 34px;
+}
+
+.make__text{
+    padding: 23px 0;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    color: #A0A0A0;
+    display: flex;
+    justify-content: center;
+}
+
+.make__card{
+    width: calc(15% - 3px);
+}
+
+.make__img{
+    width: 100%;
+}
+
+.make__row{
+    padding-top: 79px;
+    display: flex;
+    column-gap: 25px;
+    row-gap: 28px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.we{
+    padding-top: 124px;
+   margin: 0 auto;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+.we-text{
+    padding-top: 44px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}

@@ -1,0 +1,30 @@
+.inspire{
+    margin: 121px 0 39px;
+    height: 404px;
+    background-color: #9AA8B1;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 120px 0;
+}
+.inspire__title{
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.inspire__text{
+    padding-top: 23px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+}

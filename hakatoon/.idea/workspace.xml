@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0ca77fd-8d55-4867-9291-01ccd34aad5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GlAjMwgHwFXDkDhTMzZusTyzDg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merge\Desktop\­\hakatoon\src\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0ca77fd-8d55-4867-9291-01ccd34aad5d" name="Default Changelist" comment="" />
+      <created>1666952930981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666952930981</updated>
+      <workItem from="1666952933885" duration="1878000" />
+      <workItem from="1666954942349" duration="425000" />
+      <workItem from="1666955391877" duration="18000" />
+      <workItem from="1666955429730" duration="12000" />
+      <workItem from="1666955455762" duration="86000" />
+      <workItem from="1666955568027" duration="89000" />
+      <workItem from="1666955739747" duration="158000" />
+      <workItem from="1666955930257" duration="6479000" />
+      <workItem from="1666962503087" duration="318000" />
+      <workItem from="1666962984413" duration="219000" />
+      <workItem from="1666963322648" duration="258000" />
+      <workItem from="1666963602739" duration="23000" />
+      <workItem from="1666963643638" duration="1269000" />
+      <workItem from="1666964943528" duration="69000" />
+      <workItem from="1666965044436" duration="17000" />
+      <workItem from="1666965106244" duration="43000" />
+      <workItem from="1666965214692" duration="94000" />
+      <workItem from="1666965415936" duration="135000" />
+      <workItem from="1666965940249" duration="36000" />
+      <workItem from="1666966024931" duration="32000" />
+      <workItem from="1666966858545" duration="916000" />
+      <workItem from="1666973438742" duration="10000" />
+      <workItem from="1666973452490" duration="3000" />
+      <workItem from="1667034593302" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1666957613615">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1666957613615" />
+  </component>
+</project>

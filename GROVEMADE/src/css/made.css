@@ -1,0 +1,16 @@
+.made{
+    padding-top: 116px;
+    text-align: center;
+}
+
+.made__title{
+    font-size: 34px;
+}
+.made__text{
+    padding: 23px 0;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    color: #A0A0A0;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,16 @@
+.home{
+    background: url("../images/homebg.png")center/cover no-repeat;
+    padding: 188px 0 197px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.home__title{
+    font-size: 43px;
+}
+
+.home__text{
+    font-size: 15px;
+    letter-spacing: 0.8px;
+    margin: 12px 0 28px;
+}

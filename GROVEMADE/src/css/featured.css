@@ -1,0 +1,33 @@
+.featured{
+    padding: 130px 0 90px;
+    text-align: center;
+}
+
+.featured__dots{
+    display: flex;
+    column-gap: 16px;
+    justify-content: center;
+}
+.featured__cubes{
+    width: 5px;
+    height: 5px;
+    background: black;
+}
+
+.featured__card{
+    width: calc(25% - 18.75px);
+    text-align: left;
+}
+
+.featured__card-title{
+    font-size: 13px;
+    letter-spacing: 0.7px;
+    color: #A0A0A0;
+    margin-top: 23px;
+}
+
+.featured__card-price{
+    font-size: 12px;
+    letter-spacing: 0.7px;
+    color: #A0A0A0;
+}

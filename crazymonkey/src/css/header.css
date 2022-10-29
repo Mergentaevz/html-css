@@ -1,0 +1,36 @@
+.header{
+    padding: 18px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0 7px 8px 0 rgba(34, 60, 80, 0.2);
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-list{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.header-list-item{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #242424;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.header-list-item:hover{
+    color: #FEC503;
+    transition: .5s;
+}

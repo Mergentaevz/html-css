@@ -1,0 +1,31 @@
+.home{
+    padding: 220px 0 236px;
+    text-align: center;
+    background: url("../images/homebg.png") center/cover no-repeat fixed;
+}
+
+.home-title{
+    font-family: 'Rubik',sans-serif;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 130%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.home-title-yellow{
+    color: #FEC503;
+}
+
+.home-btn{
+    padding: 16px 77.5px 18px;
+    background: #FEC503;
+    border-radius: 100px;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #242424;
+    cursor: pointer;
+    border: none;
+}
+

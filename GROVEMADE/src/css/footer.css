@@ -1,0 +1,97 @@
+.footer{
+    padding-top: 40px;
+}
+.box{
+    padding: 0 50px 122px;
+    display: flex;
+    column-gap: 24px;
+    position: relative;
+}
+
+.f-left{
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+}
+
+.f-nav{
+    font-size: 22px;
+    line-height: 24px;
+    color: black;
+}
+
+.f-center{
+
+}
+
+.f-title{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.f-text{
+    padding-top: 23px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.8px;
+    color: #A0A0A0;
+    position: relative;
+}
+
+.f-text::before{
+    content: "";
+    width: 320px;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    top: 180px;
+}
+
+.go{
+    width: 82px;
+    height: 82px;
+    background-color: black;
+    position: absolute;
+    right: 50px;
+}
+.go-text{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 21px;
+}
+
+.z{
+    padding: 0 38px 28px;
+    width: 1365px;
+    height: 23px;
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 37px;
+}
+
+.n{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: right;
+    letter-spacing: 0.8px;
+    color: #707A7F;
+}
+.b{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: right;
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+
+
+
+
+

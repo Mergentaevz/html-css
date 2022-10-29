@@ -1,0 +1,51 @@
+.overlay{
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  .popup{
+    padding: 75px 60px 44px;
+    background: white;
+    max-width: 440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    &__title{
+      font-weight: 700;
+      font-size: 24px;
+      color: #000000;
+      margin-bottom: 30px;
+    }
+    &__field{
+      margin-bottom: 15px;
+      width: 90%;
+      height: 60px;
+      border: 2px solid #E0E0E0;
+      color: black;
+      padding-left: 20px;
+      font-size: 20px;
+      border-radius: 10px;
+      &::placeholder{
+        text-align: center;
+      }
+    }
+    &__btn{
+      padding: 12px 38px;
+      background: #FD7900;
+      cursor: pointer;
+      border: none;
+      font-weight: 700;
+      font-size: 18px;
+      color: #FFFFFF;
+      border-radius: 5px;
+
+    }
+
+  }
+}

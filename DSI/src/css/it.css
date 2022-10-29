@@ -1,0 +1,36 @@
+.it{
+    padding: 110px 0 162px;
+}
+
+.it__block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.it__block-title{
+    font-size: 46px;
+    line-height: 133.69%;
+    color: #1F2E35;
+}
+
+.red{
+    color: #EE4248;
+}
+
+.it__block-text{
+    padding: 24px 0;
+    font-size: 20px;
+    line-height: 29px;
+    color: #30444E;
+}
+
+.it__block-btn{
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+    width: 161px;
+    height: 53px;
+    background-color: #EE4248;
+    border: none;
+    border-radius: 5px;
+}

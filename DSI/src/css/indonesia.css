@@ -1,0 +1,25 @@
+.indonesia{
+    padding: 57px 0 63px;
+    background-color: #F6F6F6;
+}
+
+.indonesia__block{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 98px;
+    align-items: flex-end;
+}
+
+
+.indonesia__block-title{
+    font-size: 32px;
+    line-height: 133.69%;
+    color: #1F2E35;
+}
+
+.indonesia__block-text{
+    padding-top: 23px;
+    font-size: 18px;
+    line-height: 150%;
+    color: #30444E;
+}

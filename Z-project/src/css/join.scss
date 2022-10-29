@@ -1,0 +1,48 @@
+.join{
+  background-image: url("./images/JOIN.png");
+}
+
+.join__title{
+  padding: 126px 0 51px;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 82px;
+  text-align: center;
+  color: #141820;
+}
+
+.join__text{
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  text-align: center;
+  color: #555555;
+}
+
+.join__form{
+  padding-top: 45px;
+  padding-bottom: 130px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.join__email{
+  background: #FFFFFF;
+  border: 7px inset #57B8FF;
+  border-right: none;
+  border-radius: 5px 0 0 5px;
+  padding: 26px 226px 26px 13px;
+}
+
+.join__sub{
+  padding: 21px 15px;
+  background-color: #57B8FF;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+}

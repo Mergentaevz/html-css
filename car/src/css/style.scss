@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  list-style-type: none;
+}
+$orange:#FD7900;
+
+.container{
+  max-width:1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.header {
+  padding-bottom: 80px;
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__map {
+    display: flex;
+    column-gap: 15px;
+    &__title{
+        font-weight: 500;
+        font-size: 14px;
+        color: #4D4D4D;
+        margin-bottom: 5px;
+      }
+      &__link{
+        font-weight: 500;
+        font-size: 16px;
+        color: #FD7900;
+        text-decoration: underline dashed;
+        text-underline-offset: 10px;
+      }
+  }
+  &__right{
+      display: flex;
+      column-gap: 22px;
+  }
+  &__question{
+      font-weight: 500;
+      font-size: 14px;
+      color: #4C4C4C;
+      margin-bottom: 5px;
+  }
+  &__whatsapp{
+      text-align: right;
+      a{
+        font-weight: 700;
+        font-size: 24px;
+        color: #000000;
+      }
+  }
+  &__number{
+      font-weight: 700;
+      font-size: 24px;
+      color: #000000;
+      margin-bottom: 3px;
+  }
+  &__time{
+      font-weight: 500;
+      font-size: 14px;
+      color: #4C4C4C;
+
+  }
+  &__menu{
+    padding: 17px 58px;
+    border: 2px solid #F0F0F0;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+  }
+  &__link{
+    font-weight:600;
+    font-size: 18px;
+    color: #4C4C4C;
+  }
+}
+.burger-menu{
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  height: 50px;
+  width: 50px;
+  background:$orange;
+  border-radius: 8px;
+  padding: 7px;
+  display: none;
+  align-items: center;
+  cursor: pointer;
+  &__line{
+    width: 100%;
+    height: 2px;
+    background: #FFFFFF;
+    position: relative;
+  }
+  &::after{
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #FFFFFF;
+    position: absolute;
+    top: -7px;
+
+
+  }
+  &::before{
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #FFFFFF;
+    position: absolute;
+    top: -7px;
+
+
+  }
+}
+
+
+
+
+
+
+
+
+@import "free";
+@import "price";
+@import "work";
+@import "gallery";
+@import "example";
+@import "overlay";
+@import "information";
+@import "question";
+@import "contacts";
+@import "footer";
+
+.orange{
+  color: $orange;
+}

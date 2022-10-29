@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c0200b-7432-4d08-aece-d859df6ba3f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FU3dNsZ0UBx6wqmOAkiiAGiuEK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gameboom/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merge\Desktop\­\game\Gameboom\images" />
+      <recent name="C:\Users\merge\Desktop\-\game\src\images\begin" />
+      <recent name="C:\Users\merge\Desktop\Danger!\game\src\images" />
+      <recent name="C:\Users\merge\Desktop\Danger!\game\src\images\begin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merge\Desktop\-\game" />
+      <recent name="C:\Users\merge\Desktop\-\game\src\Gameboom" />
+      <recent name="C:\Users\merge\Desktop\-\game\src" />
+      <recent name="C:\Users\merge\Desktop\Danger!\game\src\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c0200b-7432-4d08-aece-d859df6ba3f5" name="Default Changelist" comment="" />
+      <created>1664532921950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664532921950</updated>
+      <workItem from="1664532924405" duration="7822000" />
+      <workItem from="1664623637053" duration="127000" />
+      <workItem from="1664790670557" duration="3500000" />
+      <workItem from="1664880842067" duration="1943000" />
+      <workItem from="1664964558684" duration="152000" />
+      <workItem from="1665485118975" duration="74000" />
+      <workItem from="1665569505147" duration="600000" />
+      <workItem from="1665757421436" duration="12000" />
+      <workItem from="1666549259406" duration="470000" />
+      <workItem from="1666550573492" duration="469000" />
+      <workItem from="1666551058479" duration="446000" />
+      <workItem from="1666551632743" duration="293000" />
+      <workItem from="1666605469420" duration="47000" />
+      <workItem from="1666773211792" duration="1055000" />
+      <workItem from="1666774427974" duration="74000" />
+      <workItem from="1666774542227" duration="985000" />
+      <workItem from="1666778319472" duration="434000" />
+      <workItem from="1666780683547" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1664880920679">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1664880920679" />
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1" timestamp="1664620795883">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1/0.0.1536.816@0.0.1536.816" timestamp="1664620795883" />
+    <state x="93" y="93" width="1350" height="630" key="dock-window-2" timestamp="1664620795883">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="dock-window-2/0.0.1536.816@0.0.1536.816" timestamp="1664620795883" />
+    <state x="93" y="93" width="1350" height="630" key="dock-window-3" timestamp="1664620795883">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="dock-window-3/0.0.1536.816@0.0.1536.816" timestamp="1664620795883" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1664621830203">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1664621830203" />
+  </component>
+</project>

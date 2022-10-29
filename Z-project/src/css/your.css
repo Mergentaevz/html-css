@@ -1,0 +1,138 @@
+.your {
+  background: url("../css/images/your/your-bg.png") center/cover no-repeat;
+}
+
+.future-of-esportss {
+  padding-top: 136px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-column-gap: 15px;
+     -moz-column-gap: 15px;
+          column-gap: 15px;
+}
+
+.f-titles {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FAC422;
+  padding-top: 10px;
+}
+
+.your__title {
+  padding-top: 15px;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 74px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+
+.your__text {
+  padding-top: 39px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: rgba(223, 223, 223, 0.8);
+}
+
+.your__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding-top: 61px;
+  padding-bottom: 130px;
+  gap: 32px;
+}
+
+.you__block-items {
+  width: calc(50% - 16px);
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 20px;
+  padding: 35px 32px;
+}
+
+.your__items-title {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 42px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+
+.y-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 16px;
+     -moz-column-gap: 16px;
+          column-gap: 16px;
+}
+
+.your__items-text {
+  padding-top: 19px;
+  padding-left: 50px;
+  font-weight: 400;
+  font-size: 15px;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  line-height: 28px;
+  color: rgba(223, 223, 223, 0.8);
+}
+
+.new {
+  padding-top: 130px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#2A313C), to(#000));
+  background-image: linear-gradient(#2A313C, #000);
+}
+
+.new__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 107px;
+     -moz-column-gap: 107px;
+          column-gap: 107px;
+}
+
+.new__title {
+  padding-top: 22px;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 74px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+
+.new__text {
+  padding-top: 38px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: rgba(223, 223, 223, 0.8);
+}
+
+.b {
+  padding: 54px 0 168px;
+}
+
+.new-video {
+  position: relative;
+}
+
+.iconv {
+  position: absolute;
+  top: 210px;
+  left: 180px;
+}

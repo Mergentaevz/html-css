@@ -1,0 +1,70 @@
+.become{
+    width: 100%;
+   background: #283036 ;
+    padding: 251px 444px 240px;
+}
+.footer__box-name{
+    display: flex;
+}
+.footer__box{
+    display: flex;
+}
+.box{
+    width: 560px;
+    margin: 0 auto;
+}
+.footer__card{
+    width: calc(25% - 25px);
+}
+.become__title{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: rgba(255, 255, 255, 0.9);
+
+}
+.become__text{
+    margin: 25px 0 100px 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.55);
+
+}
+.forms__btn{
+    border: none;
+
+    padding: 12px 36px;
+    background: #FF6E30;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.ends__input{
+
+    padding-left: 30px;
+    background: transparent;
+    border: 2px solid  rgba(255, 255, 255, 0.38);
+    width: 400px;
+    height: 100%;
+}
+.ends__input::placeholder{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.38);
+}
+.ends__form{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: #283036;
+    border-radius: 15px;
+}

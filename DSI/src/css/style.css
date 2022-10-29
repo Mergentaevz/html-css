@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: "Roboto",sans-serif;
+}
+
+.container{
+    max-width: 1125px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.footer{
+    height: 64px;
+    background-color: #EE4248;
+}
+
+.footer__text{
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding-top: 22px;
+}
+
+.footer-span{
+    font-weight: bold;
+}

@@ -1,0 +1,64 @@
+.future{
+  height: 1070px;
+  background-image: linear-gradient(#00b1ff,#093860);
+}
+
+.future__blocks{
+  padding-top: 237px;
+  display: flex;
+}
+
+.future-of-esports{
+  display: flex;
+  column-gap: 15px;
+}
+
+.f-title{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FAC422;
+  padding-top: 10px;
+}
+
+.left-title{
+  padding-top: 24px;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 86px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  position: relative;
+}
+
+.left__title-line{
+  position: absolute;
+  height: 16px;
+  left: 310px;
+  bottom: 210px;
+}
+
+.left-text{
+  padding-top: 45px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #999999;
+}
+
+.f-btns{
+  padding-top: 53px;
+  display: flex;
+  column-gap: 40px;
+}
+
+.buttonv{
+  padding-top: 13px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+

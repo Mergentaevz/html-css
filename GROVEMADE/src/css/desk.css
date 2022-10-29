@@ -1,0 +1,23 @@
+.desk{
+    background: url("../images/deskBg.png")center/cover no-repeat;
+    padding: 188px 0 197px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.desk__title{
+    font-size: 43px;
+}
+
+.desk__text{
+    font-size: 15px;
+    letter-spacing: 0.8px;
+    margin: 12px 0 28px;
+}
+
+.desk__link{
+    font-size: 13px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

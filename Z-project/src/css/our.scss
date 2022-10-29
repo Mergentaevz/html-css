@@ -1,0 +1,33 @@
+.our{
+    background-image: linear-gradient(#ffe200, #ff7300);
+}
+
+.our__title{
+  padding-top: 128px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #222730;
+  position: relative;
+}
+
+.our__line{
+  position: absolute;
+  left: 650px;
+}
+
+.our__text{
+  padding-top: 44px;
+  text-align: center;
+}
+
+.our__block-items{
+  padding: 41px 0 130px;
+  display: flex;
+  column-gap: 32px;
+}
+
+
+

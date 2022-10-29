@@ -1,0 +1,48 @@
+.design{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.design__title{
+    font-size: 43px;
+}
+
+.design__text{
+    font-size: 14px;
+    letter-spacing: 0.8px;
+    color: #A0A0A0;
+    margin: 23px 0 52px;
+}
+
+.design__link{
+    font-size: 13px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.design__row{
+    display: flex;
+    column-gap: 25px;
+    margin-top: 81px;
+}
+
+.design__card{
+    width: calc(50% - 12.5px);
+}
+
+.design__card-image{
+    width: 100%;
+}
+
+.design__card-title{
+    font-size: 27px;
+    margin: 48px 0 23px;
+}
+
+.design__card-link{
+    font-size: 13px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}
